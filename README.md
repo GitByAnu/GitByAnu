@@ -4,6 +4,8 @@ Hi ! My name is Anupama Bain
 Software Developer
 ------------------
 
+### ✨ Quick Facts
+
 * 🎓 BCA Student @ IEM Kolkata  
 * 💻 Programmer & Problem Solver  
 * 🤖 Exploring AI/ML    
